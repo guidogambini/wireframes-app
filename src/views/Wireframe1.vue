@@ -7,9 +7,9 @@
         Wireframe Challenge: Guido Gambini
       </h2>
     </div>
-    <div class="w-full md:w-1/2 flex justify-center p-6">
+    <div class="w-full md:w-1/2 flex justify-center">
       <div
-        class="w-full max-w-sm bg-white rounded-lg p-6 shadow grid grid-rows-[auto,1fr] h-auto"
+        class="w-full max-w-sm rounded-lg p-6 grid grid-rows-[auto,1fr] h-auto"
       >
         <div>
           <div class="flex items-center justify-center relative mb-4">

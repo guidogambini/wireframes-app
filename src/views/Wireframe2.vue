@@ -9,7 +9,7 @@
     </div>
     <div class="w-full md:w-1/2 flex justify-center p-6">
       <div
-        class="w-full max-w-sm bg-white rounded-lg p-6 shadow h-auto md:h-auto grid grid-rows-[auto,1fr]"
+        class="w-full max-w-sm rounded-lg p-6 h-auto md:h-auto grid grid-rows-[auto,1fr]"
       >
         <div>
           <div class="relative mb-4">
