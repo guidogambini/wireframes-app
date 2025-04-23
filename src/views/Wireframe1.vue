@@ -17,27 +17,28 @@
             <p class="text-sm text-left mb-6 font-semibold">
               Please enter the code we sent to +9726555566
             </p>
-            <div class="flex justify-between gap-2 mb-6">
+            <div class="flex flex'wrap justify-between gap-2 mb-6">
               <input
-                type="text"
-                maxlength="1"
-                class="w-20 h-12 text-center border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-blue-500"
-              />
-              <input
-                type="text"
-                maxlength="1"
-                class="w-20 h-12 text-center border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-blue-500"
-              />
-              <input
-                type="text"
-                maxlength="1"
-                class="w-20 h-12 text-center border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-blue-500"
-              />
-              <input
-                type="text"
-                maxlength="1"
-                class="w-20 h-12 text-center border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-blue-500"
-              />
+  type="text"
+  maxlength="1"
+  class="w-[20vw] h-[6vh] max-w-[60px] max-h-[60px] text-center border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-blue-500"
+/>
+<input
+  type="text"
+  maxlength="1"
+  class="w-[20vw] h-[6vh] max-w-[60px] max-h-[60px] text-center border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-blue-500"
+/>
+<input
+  type="text"
+  maxlength="1"
+  class="w-[20vw] h-[6vh] max-w-[60px] max-h-[60px] text-center border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-blue-500"
+/>
+<input
+  type="text"
+  maxlength="1"
+  class="w-[20vw] h-[6vh] max-w-[60px] max-h-[60px] text-center border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-blue-500"
+/>
+
             </div>
           </div>
           <div class="self-center">
