@@ -133,11 +133,11 @@
 
         <p class="text-sm text-center mt-4">
           Already a user?
-          <a href="#" class="text-blue-600 font-medium">Log in</a>
+          <a href="#" class="font-medium underline">Log in</a>
         </p>
         <p class="text-sm text-center">
           Not ready to sign up?
-          <a href="#" class="text-blue-600 font-medium">Guest mode</a>
+          <a href="#" class="font-medium underline">Guest mode</a>
         </p>
       </div>
     </div>
