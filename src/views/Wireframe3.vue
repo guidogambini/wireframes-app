@@ -4,7 +4,7 @@
       class="hidden md:flex w-1/2 bg-gray-200 items-center justify-center p-8"
     >
       <h2 class="text-3xl font-bold text-gray-700 text-center">
-        Wireframe Challange: Guido Gambini
+        Wireframe Challenge: Guido Gambini
       </h2>
     </div>
     <div class="w-full md:w-1/2 flex justify-center items-center p-6">
